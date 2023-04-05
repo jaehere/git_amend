@@ -1,3 +1,4 @@
 New text file
 Add a new line
 Modify test2
+Modify test2
